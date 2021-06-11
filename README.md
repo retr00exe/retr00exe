@@ -1,38 +1,50 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1603705805/11110/crewmate.gif?1603705805" width="30"/> Hi there!
 
-<img align='right' src="https://i.pinimg.com/originals/1e/97/a8/1e97a88e304aa9c86026ef4c4c4e6936.gif" width="300">
-Hi, I'm a sophomore computer engineering student from <b>Indonesia</b> <img src="https://emojis.slackmojis.com/emojis/images/1562883039/5948/bongo_blob.gif?1562883039" width="30" />
-
+<img align='right' src="https://i.pinimg.com/originals/1e/97/a8/1e97a88e304aa9c86026ef4c4c4e6936.gif" class="cover">
+Hi, I'm a sophomore computer engineering student from <b>Indonesia</b>
 
 - 🌈 I’m currently learning fullstack web development and cryptography stuff
 - 🐳 Big fan of Mr. Robot and Silicon Valley series
-- 🐙 Javascript and Python enthusiast
+- 🐙 Javascript and Python maniac
+- 💫 I hate old school tech stack
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<style>
+  .cover {
+    width: 375px;
+  }
+
+  @media only screen and (max-width: 640px) {
+        .cover {
+            width: 300px;
+        }
+  }
+</style>
+
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const mekel = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Typescript", "Python", "Go"],
+    askMeAbout: ["Web Dev", "Tech", "Games", "Movie"],
     technologies: {
         backEnd: {
-            js: ["node", "fastify", "express", "SuiteScript"],
+            js: ["Node", "Express.js"],
         },
         frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            js: ["React", "Next.js"],
+            css: ["Tailwind", "Bootstrap", "Emotion.js", "Styled Components"]
         },
         mobileApp: {
-            native: ["Android Development", "Ios Development"]
+            native: ["React Native"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        devOps: ["AWS", "Docker 🐳"],
+        databases: ["MongoDB", "PosgreSQL", "MySQL", "FaunaDB"],
+        misc: ["Firebase", "Socket.IO", "Selenium"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Ios Mobile App Development",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    architecture: ["Serverless Architecture", "Progressive Web Applications", "Single Page Applications"],
+    currentFocus: "Fullstack Javascript",
+    funFact: "I don't know how to code using PHP 😆"
 };
 ```
 
