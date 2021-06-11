@@ -1,24 +1,12 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1603705805/11110/crewmate.gif?1603705805" width="30"/> Hi there!
 
-<img align='right' src="https://i.pinimg.com/originals/1e/97/a8/1e97a88e304aa9c86026ef4c4c4e6936.gif" class="cover">
+<img align='right' src="https://i.pinimg.com/originals/1e/97/a8/1e97a88e304aa9c86026ef4c4c4e6936.gif" width="330">
 Hi, I'm a sophomore computer engineering student from <b>Indonesia</b>
 
 - 🌈 I’m currently learning fullstack web development and cryptography stuff
 - 🐳 Big fan of Mr. Robot and Silicon Valley series
 - 🐙 Javascript and Python maniac
 - 💫 I hate old school tech stack
-
-<style>
-  .cover {
-    width: 375px;
-  }
-
-  @media only screen and (max-width: 640px) {
-        .cover {
-            width: 300px;
-        }
-  }
-</style>
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
