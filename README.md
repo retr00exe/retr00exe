@@ -12,9 +12,10 @@ Hi, I'm a sophomore computer engineering student from <b>Indonesia</b>
 
 ```javascript
 const mekel = {
+    species: "Human",
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Go"],
-    askMeAbout: ["Web Dev", "Tech", "Games", "Movie"],
+    askMeAbout: ["Web Dev", "Tech", "Games", "Movie", "Music"],
     technologies: {
         backEnd: {
             js: ["Node", "Express.js"],
