@@ -1,47 +1,72 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1603705805/11110/crewmate.gif?1603705805" width="30"/> Hi there!
 
 <img align='right' src="https://i.pinimg.com/originals/1e/97/a8/1e97a88e304aa9c86026ef4c4c4e6936.gif" width="330">
-Hi, I'm a sophomore computer engineering student from <b>Indonesia</b>
+Hi, I'm a third year computer engineering student from <b>Indonesia</b>
 
-- 🌈 I’m currently learning fullstack web development and cryptography stuff
-- 🐳 Big fan of Mr. Robot and Silicon Valley series
+- 🌈 I’m currently learning fullstack web development, blockchain technology and cryptography stuff
 - 🐙 Javascript and Python maniac
+- 🐳 Big fan of Mr. Robot and HBO Silicon Valley series
 - 💫 I hate old school tech stack
+- 🦄 I play piano or genshin impact to recover my mood during work/college
+- 🐑 Yeah I'm a nerd, I love science books by Carl Sagan & Neil deGrasse Tyson
+- 🐥 The more you learn in code the more you realize you know nothing
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const mekel = {
-    species: "Human",
+    species: "Human 😜",
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Go"],
     askMeAbout: ["Web Dev", "Tech", "Games", "Movie", "Music"],
     technologies: {
         backEnd: {
-            js: ["Node", "Express.js"],
+            js: ["Node", "Go"],
         },
         frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "Emotion.js", "Styled Components"]
+            js: ["React", "Next.js", "Svelte"],
+            css: ["Tailwind", "Bootstrap", "Emotion.js", "Styled Components"],
+            animation: ["Framermotion"]
         },
         mobileApp: {
             native: ["React Native"]
         },
         devOps: ["AWS", "Docker 🐳"],
-        databases: ["MongoDB", "PosgreSQL", "MySQL", "FaunaDB"],
-        misc: ["Firebase", "Socket.IO", "Selenium"]
+        databases: ["MongoDB", "PosgreSQL", "MySQL", "FaunaDB", "AWS Aurora"],
+        cms: ["Strapi", "Prismic"]
+        misc: ["Firebase", "Socket.IO", "Selenium", "Twilio"]
     },
     architecture: ["Serverless Architecture", "Progressive Web Applications", "Single Page Applications"],
-    currentFocus: "Fullstack Javascript",
+    currentFocus: "Fullstack Javascript 👻",
     funFact: "I don't know how to code using PHP 😆"
 };
 ```
+
 
 ![Mekel's GitHub stats](https://github-readme-stats.vercel.app/api?username=retr00exe&show_icons=true&theme=tokyonight)
 
 ![Mekel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=retr00exe&layout=compact&theme=tokyonight)
 
 Open source is awesome right? 🔥
+
+<img src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" width="500">
+
+<br>
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG v1.58
+
+mI0EWiOMeQEEAImCEQUnSQ54ee+mnkANsjyvZm2QsC1sGIBEpmyJbh2xWuluJ/KV
+TIUSqbkLOEq4COIlzG0fhuruUWBM2+ANazq5jkxLrYmHX4AwA2Q6jvd3xE8B1uVj
+qT0TEKyZtmBwesEswUxb+vOwVLdWKXpcySXtIQhoKWAUVzG7e5uEawyXABEBAAG0
+BWFuaXNoiJwEEAECAAYFAlojjHkACgkQmCS94uDDx9lHewP/UtsSk3lyj5GnHyoT
+HZMz+sUFpFlan7agqHf6pV2Pgdb9OMCVauMwl9bjPY9HSHQg/a3gTQ5qNq9txiI2
+4Fso2Q3AR6XcVk2wQxS6prJ9imPi1npXarCwZkEgWLXWLuQLHoxRWHf9olUqeW7P
+kwQlJ1K9Ib85pCTvx16DN7QwQv8=
+=Qteg
+-----END PGP PUBLIC KEY BLOCK-----
+```
 
 ## 👀 How to Reach Me
 
