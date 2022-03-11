@@ -8,20 +8,20 @@ Hi, I'm a third year computer engineering student from <b>Indonesia</b>
 - 🐳 Big fan of Mr. Robot and HBO Silicon Valley series
 - 💫 I hate old school tech stack
 - 🦄 I play piano or genshin impact to recover my mood during work/college
-- 🐑 Yeah I'm a nerd, I love science books by Carl Sagan & Neil deGrasse Tyson
+- 🐑 I love science books by Carl Sagan & Neil deGrasse Tyson
 - 🐥 The more you learn in code the more you realize you know nothing
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const mekel = {
-    species: "Human 😜",
+    species: "Human",
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Go"],
-    askMeAbout: ["Web Dev", "Tech", "Games", "Movie", "Music"],
+    askMeAbout: ["Web Dev", "Tech", "Games", "Movie", "Music", "Hardware"],
     technologies: {
         backEnd: {
-            js: ["Node", "Go"],
+            stack: ["Node", "Go", "Django"],
         },
         frontEnd: {
             js: ["React", "Next.js", "Svelte"],
@@ -67,13 +67,13 @@ Open source is awesome right? 🔥
 ## 🖥️ My Setup
 
 ### PC :
-- Intel Core i5-12400F Alder Lake @2.50 Ghz up to @4.40 GHz (6P+0E, 12T)
+- Intel Core i5-12400F Alder Lake @2.50 GHz up to @4.40 GHz (6P+0E, 12T)
 - Nvidia GeForce RTX 3060 Colorful Ultra White OC 12 GB GDDR6 192 bit
 - ASUS ROG Strix B660-A Gaming Wifi D4 LGA 1700 ATX
 - Corsair DDR4 Vengeance RGB Pro White @3600 MHz
 - Adata XPG SX8200 Pro M.2 SSD
 - Midasforce Super Lightning SATA SSD
-- Seagate Barracuda 7200 SATA HDD
+- Seagate Barracuda SATA HDD
 - Corsair CV650 80+ Bronze
 - Cooler Master MasterBox TD500 Mesh
 
@@ -82,6 +82,7 @@ Open source is awesome right? 🔥
 - Gateron Yellow Pro & Gazzew Boba UT4 (Lubed with Krytox 205g)
 - Shirakawa PBT Dye Sub Keycap Set Japanese Root by Press Play
 - Durock White Plate Mount Keyboard Stabilizer Sets
+- TX Switch Films V.2
 - Coiled Cable Rexus Daxa DX-CC1 USB Type C
 
 ### Monitor :
@@ -96,15 +97,18 @@ Open source is awesome right? 🔥
 - Rexus Gaming Thundervox HX2 (Headset)
 - Google Nest Mini 2nd Gen (Speaker)
 
+### Laptop :
+- ASUS TUF Gaming FX504GD
+
 ### Phone :
 - Samsung Galaxy A52
 
 ### Smarthome :
-- Bardi Smart Light Bulb RGB 12W Wifi Wireless IoT
-- Bardi Smart LED Strip RGB 2m
+- Bardi Smart Light Bulb RGB 12W WiFi
+- Bardi Smart LED Strip RGB 2m WiFi
 - Google Nest Mini 2nd Gen
 
-I want to be tech reviewer tbh but doesn't have spare time 😅
+I want to be a tech reviewer tbh but doesn't have spare time 😅
 
 ## 👩🏻‍💻 My Favorite Tech Stack & Tools
 
