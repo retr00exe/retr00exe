@@ -65,8 +65,7 @@ Open source is awesome right? 🔥
 <br/>
 
 ## 🖥️ My Setup
-
-### PC :
+#### PC :
 - Intel Core i5-12400F Alder Lake @2.50 GHz up to @4.40 GHz (6P+0E, 12T)
 - Nvidia GeForce RTX 3060 Colorful Ultra White OC 12 GB GDDR6 192 bit
 - ASUS ROG Strix B660-A Gaming Wifi D4 LGA 1700 ATX
@@ -76,39 +75,14 @@ Open source is awesome right? 🔥
 - Seagate Barracuda SATA HDD
 - Corsair CV650 80+ Bronze
 - Cooler Master MasterBox TD500 Mesh
+- Xiaomi Gaming Monitor Curved 34 Inch 144Hz WQHD
 
-### Keeb :
+#### Keeb :
 - Royal Kludge RK84 Hotswap RGB Wireless Bluetooth Mechanical Keyboard
 - Gateron Yellow Pro & Gazzew Boba UT4 (Lubed with Krytox 205g)
 - Shirakawa PBT Dye Sub Keycap Set Japanese Root by Press Play
 - Durock White Plate Mount Keyboard Stabilizer Sets
-- TX Switch Films V.2
-- Coiled Cable Rexus Daxa DX-CC1 USB Type C
-
-### Monitor :
-- Xiaomi Gaming Monitor Curved 34 Inch 144Hz WQHD (3440 x 1440)
-
-### Mouse :
-- Razer Deathadder Essential (For daily use)
-- Corsair Harpoon Pro RGB (For gaming)
-
-### Audio :
-- Razer Hammerhead Pro V2 (Earphone)
-- Rexus Gaming Thundervox HX2 (Headset)
-- Google Nest Mini 2nd Gen (Speaker)
-
-### Laptop :
-- ASUS TUF Gaming FX504GD
-
-### Phone :
-- Samsung Galaxy A52
-
-### Smarthome :
-- Bardi Smart Light Bulb RGB 12W WiFi
-- Bardi Smart LED Strip RGB 2m WiFi
-- Google Nest Mini 2nd Gen
-
-I want to be a tech reviewer tbh but doesn't have spare time 😅
+- White Coiled Cable Rexus Daxa DX-CC1 USB Type C
 
 ## 👩🏻‍💻 My Favorite Tech Stack & Tools
 
