@@ -8,20 +8,20 @@ Hi, I'm a third year computer engineering student from <b>Indonesia</b>
 - 🐳 Big fan of Mr. Robot and HBO Silicon Valley series
 - 💫 I hate old school tech stack
 - 🦄 I play piano or genshin impact to recover my mood during work/college
-- 🐑 Yeah I'm a nerd, I love science books by Carl Sagan & Neil deGrasse Tyson
+- 🐑 I love science books by Carl Sagan & Neil deGrasse Tyson
 - 🐥 The more you learn in code the more you realize you know nothing
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const mekel = {
-    species: "Human 😜",
+    species: "Human",
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Go"],
-    askMeAbout: ["Web Dev", "Tech", "Games", "Movie", "Music"],
+    askMeAbout: ["Web Dev", "Tech", "Games", "Movie", "Music", "Hardware"],
     technologies: {
         backEnd: {
-            js: ["Node", "Go"],
+            stack: ["Node", "Go", "Django"],
         },
         frontEnd: {
             js: ["React", "Next.js", "Svelte"],
@@ -64,60 +64,34 @@ Open source is awesome right? 🔥
 [<img alt="mekelilyasa | Gitlab" src="https://img.shields.io/badge/Keybase.io-33A0FF?style=for-the-badge&logo=keybase&logoColor=white" />][keybase]
 <br/>
 
-Contact me via secure channel? Here's my pub key 👻
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
+## 🖥️ My Setup
+#### PC :
+- Intel Core i5-12400F Alder Lake @2.50 GHz up to @4.40 GHz (6P+0E, 12T)
+- Nvidia GeForce RTX 3060 Colorful Ultra White OC 12 GB GDDR6 192 bit
+- ASUS ROG Strix B660-A Gaming Wifi D4 LGA 1700 ATX
+- Corsair DDR4 Vengeance RGB Pro White @3600 MHz
+- Adata XPG SX8200 Pro M.2 SSD
+- Midasforce Super Lightning SATA SSD
+- Seagate Barracuda SATA HDD
+- Corsair CV650 80+ Bronze
+- Cooler Master MasterBox TD500 Mesh
+- Xiaomi Gaming Monitor Curved 34 Inch 144Hz WQHD
 
-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
-kV0lFn42xTpEG5VZnirNp9HVoHdqt47d16YYC3g=
-=0sd/
------END PGP PUBLIC KEY BLOCK-----
-
-```
+#### Keeb :
+- Royal Kludge RK84 Hotswap RGB Wireless Bluetooth Mechanical Keyboard
+- Gateron Yellow Pro & Gazzew Boba UT4 (Lubed with Krytox 205g)
+- Shirakawa PBT Dye Sub Keycap Set Japanese Root by Press Play
+- Durock White Plate Mount Keyboard Stabilizer Sets
+- White Coiled Cable Rexus Daxa DX-CC1 USB Type C
 
 ## 👩🏻‍💻 My Favorite Tech Stack & Tools
 
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/> <img src="https://img.shields.io/badge/Deno.JS-464647?style=for-the-badge&logo=deno&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white"/> <img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white"/> <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 <br />
 
-| 💻 My Workspace Spec                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 🎧 Spotify Playing                                                                                                                                   |
+| 💻 Workspace | 🎧 Spotify Playing |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/nvidia-gtx1050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/> <img src="https://img.shields.io/badge/intel-core%20i5%208th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/> <img src="https://img.shields.io/badge/windows-asus%20TUF%20fx504-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/debian-%23A81D33.svg?&style=for-the-badge&logo=debian&logoColor=white"/> | [<img src="https://spotify-github-profile-6d72orq3n.vercel.app/api/spotify" width="900" />](https://open.spotify.com/user/21vdiiblmc6lv5b4bacgqulqi) |
+| <img src="https://img.shields.io/badge/nvidia-rtx 3060-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/> <img src="https://img.shields.io/badge/intel-core%20i5%2012th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/> <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/debian-%23A81D33.svg?&style=for-the-badge&logo=debian&logoColor=white"/> | [<img src="https://spotify-github-profile-6d72orq3n.vercel.app/api/spotify" width="900" />](https://open.spotify.com/user/21vdiiblmc6lv5b4bacgqulqi) |
 
 ## 🥤 Buy Me a Coffee
 
