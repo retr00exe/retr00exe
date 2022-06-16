@@ -74,19 +74,21 @@ Open source is awesome right? 🔥
 - Intel Core i5-12400F Alder Lake @2.50 GHz up to @4.40 GHz (6P+0E, 12T)
 - Nvidia GeForce RTX 3060 Colorful Ultra White OC 12 GB GDDR6 192 bit
 - ASUS ROG Strix B660-A Gaming Wifi D4 LGA 1700 ATX
-- Corsair DDR4 Vengeance RGB Pro White @3600 MHz
+- Corsair DDR4 Vengeance RGB Pro White @3600 MHz 2x8 GB
+- Corsair CV650 80+ Bronze
+- Cooler Master MasterBox TD500 Mesh
+- ID Cooling Auraflow X360 AIO Snow Edition
+- Lian Li Strimer Plus V2
 - Adata XPG SX8200 Pro M.2 SSD
 - Midasforce Super Lightning SATA SSD
 - Seagate Barracuda SATA HDD
-- Corsair CV650 80+ Bronze
-- Cooler Master MasterBox TD500 Mesh
 - Xiaomi Gaming Monitor Curved 34 Inch 144Hz WQHD
 
 #### Keeb :
 - Royal Kludge RK84 Hotswap RGB Wireless Bluetooth Mechanical Keyboard
 - Gateron Yellow Pro & Gazzew Boba UT4 (Lubed with Krytox 205g)
 - Shirakawa PBT Dye Sub Keycap Set Japanese Root by Press Play
-- Durock White Plate Mount Keyboard Stabilizer Sets
+- Durock White Plate Mount Keyboard Stabilizer Sets (Holee Mod)
 - White Coiled Cable Rexus Daxa DX-CC1 USB Type C
 
 #### Steam :
