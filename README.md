@@ -9,7 +9,7 @@ Hi, I'm a third year computer engineering student from <b>Indonesia</b>
 - 💫 I hate old school tech stack
 - 🦄 I play piano or genshin impact to recover my mood during work/college
 - 🐑 I love science books by Carl Sagan & Neil deGrasse Tyson
-- 🐥 The more you learn in code the more you realize you know nothing
+- 🐥 The more you learn in code the more you realize you know nothing 😿
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -74,15 +74,16 @@ Open source is awesome right? 🔥
 - Intel Core i5-12400F Alder Lake @2.50 GHz up to @4.40 GHz (6P+0E, 12T)
 - Nvidia GeForce RTX 3060 Colorful Ultra White OC 12 GB GDDR6 192 bit
 - ASUS ROG Strix B660-A Gaming Wifi D4 LGA 1700 ATX
-- Corsair DDR4 Vengeance RGB Pro White @3600 MHz 2x8 GB
+- Corsair DDR4 Vengeance RGB Pro White @3600 MHz (2x8 GB)
 - Corsair CV650 80+ Bronze
 - Cooler Master MasterBox TD500 Mesh
 - ID Cooling Auraflow X360 AIO Snow Edition
-- Lian Li Strimer Plus V2
+- Lian Li Strimer Plus V2 (24 Pin + 2x8 Pin)
 - Adata XPG SX8200 Pro M.2 SSD
 - Midasforce Super Lightning SATA SSD
 - Seagate Barracuda SATA HDD
 - Xiaomi Gaming Monitor Curved 34 Inch 144Hz WQHD
+- Waveshare 5 Inch LCD TFT Sensor Panel Monitor 
 
 #### Keeb :
 - Royal Kludge RK84 Hotswap RGB Wireless Bluetooth Mechanical Keyboard
