@@ -74,7 +74,7 @@ Open source is awesome right? 🔥
 - Intel Core i5-12400F Alder Lake @2.50 GHz up to @4.40 GHz (6P+0E, 12T)
 - Nvidia GeForce RTX 3060 Colorful Ultra White OC 12 GB GDDR6 192 bit
 - ASUS ROG Strix B660-A Gaming Wifi D4 LGA 1700 ATX
-- Corsair DDR4 Vengeance RGB Pro White @3600 MHz (2x8 GB)
+- Corsair DDR4 Vengeance RGB Pro White @3600 MHz (4x8 GB)
 - Corsair CV650 80+ Bronze
 - Cooler Master MasterBox TD500 Mesh
 - ID Cooling Auraflow X360 AIO Snow Edition
