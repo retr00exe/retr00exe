@@ -1,7 +1,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1603705805/11110/crewmate.gif?1603705805" width="30"/> Hi there!
 
 <img align='right' src="https://i.pinimg.com/originals/1e/97/a8/1e97a88e304aa9c86026ef4c4c4e6936.gif" width="330">
-Hi, I'm a third year computer engineering student from <b>Indonesia</b>
+Hi, I'm a final year computer engineering student from <b>Indonesia</b>
 
 - 🌈 I’m currently learning fullstack web development, blockchain technology and cryptography stuff
 - 🐙 Javascript and Python maniac
