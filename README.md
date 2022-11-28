@@ -85,6 +85,9 @@ Open source is awesome right? 🔥
 - Xiaomi Gaming Monitor Curved 34 Inch 144Hz WQHD
 - Waveshare 5 Inch LCD TFT Sensor Panel Monitor 
 
+### Laptop :
+- MacBook Pro M1 512 GB
+
 #### Keeb :
 - Royal Kludge RK84 Hotswap RGB Wireless Bluetooth Mechanical Keyboard
 - Gateron Yellow Pro & Gazzew Boba UT4 (Lubed with Krytox 205g)
