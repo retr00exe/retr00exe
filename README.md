@@ -95,6 +95,9 @@ Open source is awesome right? 🔥
 - Durock White Plate Mount Keyboard Stabilizer Sets (Holee Mod)
 - White Coiled Cable Rexus Daxa DX-CC1 USB Type C
 
+#### Desk :
+- IKEA Alex/Lagkapten
+
 #### Steam :
 <img src="https://steam-stat.vercel.app/api?profileName=mekelilyasa"/>
 
